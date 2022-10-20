@@ -1,0 +1,1 @@
+<span id="invalid">Your message cannot be sent.</span>
